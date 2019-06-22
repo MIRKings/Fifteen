@@ -1,0 +1,12 @@
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\bin\Release\Game F.exe
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\bin\Release\Game F.pdb
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\bin\Release\Border.dll
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\bin\Release\Border.pdb
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game F.csprojAssemblyReference.cache
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game_F.GameF.resources
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game_F.Properties.Resources.resources
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game F.csproj.GenerateResource.cache
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game F.csproj.CoreCompileInputs.cache
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game F.csproj.CopyComplete
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game F.exe
+C:\Users\gusei\source\repos\GamePyat\Game\Game F\obj\Release\Game F.pdb

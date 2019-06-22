@@ -1,0 +1,6 @@
+C:\Users\gusei\source\repos\GamePyat\Game\Border\bin\Release\Border.dll
+C:\Users\gusei\source\repos\GamePyat\Game\Border\bin\Release\Border.pdb
+C:\Users\gusei\source\repos\GamePyat\Game\Border\obj\Release\Border.csprojAssemblyReference.cache
+C:\Users\gusei\source\repos\GamePyat\Game\Border\obj\Release\Border.csproj.CoreCompileInputs.cache
+C:\Users\gusei\source\repos\GamePyat\Game\Border\obj\Release\Border.dll
+C:\Users\gusei\source\repos\GamePyat\Game\Border\obj\Release\Border.pdb
